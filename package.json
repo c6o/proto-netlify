@@ -1,0 +1,24 @@
+{
+    "name": "@c6o/proto-netlify",
+    "description": "Explore a library of reference examples for learning about Edge Functions on Netlify.",
+    "version": "1.0.0",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/netlify/edge-functions-examples.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/netlify/edge-functions-examples/issues"
+    },
+    "homepage": "https://github.com/netlify/edge-functions-examples#readme",
+    "devDependencies": {
+        "@netlify/edge-functions": "^2.11.0",
+        "@types/node": "^22.9.1"
+    },
+    "dependencies": {
+        "@netlify/functions": "^2.8.2"
+    }
+}
